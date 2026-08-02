@@ -4,7 +4,7 @@ require('dotenv').config();
 
 const express = require('express');
 const { validateSignature, parseWebhookEvent } = require('./webhook');
-const { generateReply } = require('./ai_canonical');
+const { generateReply } = require('./ai');
 const { sendReply } = require('./chatwoot');
 const { syncKnowledgebase, getSyncMeta } = require('./kb-sync');
 
