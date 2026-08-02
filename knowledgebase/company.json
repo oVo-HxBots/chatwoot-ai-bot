@@ -1,0 +1,17 @@
+[
+  {
+    "id": "company-001",
+    "topic": "About example.com",
+    "content": "example.com is a web hosting company with over 10 years in business, 750+ completed projects, and a team of 70 members. We provide 24/7 technical support to all our customers."
+  },
+  {
+    "id": "company-002",
+    "topic": "Contact Information",
+    "content": "You can reach our support team by mail at info@example.com, or by opening a support ticket through the client portal at https://example.com. We offer 24-hour technical support."
+  },
+  {
+    "id": "company-003",
+    "topic": "Support Hours",
+    "content": "Our technical support is available 24 hours a day. You can open a support ticket via the client portal, or mail us at info@example.com."
+  }
+]

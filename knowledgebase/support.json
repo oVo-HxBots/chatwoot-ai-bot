@@ -1,0 +1,47 @@
+[
+  {
+    "id": "support-001",
+    "topic": "How to Open a Support Ticket",
+    "content": "To open a support ticket, log in to the client portal, navigate to Support > Open Ticket, select the appropriate department, and describe your issue. Our team responds within the SLA timeframe."
+  },
+  {
+    "id": "support-002",
+    "topic": "Support Response Times",
+    "content": "We offer 24/7 technical support. Ticket response times vary by plan: critical issues (service outages) are prioritized. General support inquiries are typically answered within 1-4 hours."
+  },
+  {
+    "id": "support-003",
+    "topic": "How to Reset cPanel Password",
+    "content": "Log in to the client portal, go to Services, select your hosting account, and click Change Password. Alternatively, open a support ticket and our team will assist you."
+  },
+  {
+    "id": "support-004",
+    "topic": "Forgot Client Area Password",
+    "content": "Click Forgot Password on the client portal login page and enter your registered email address. A password reset link will be sent to you. If you do not receive it, check your spam folder or contact support."
+  },
+  {
+    "id": "support-005",
+    "topic": "Email Not Working / Email Issues",
+    "content": "Common causes: (1) Incorrect mail server settings — check the email configuration in cPanel under Email Accounts. (2) DNS MX records not pointing to our servers. (3) Mailbox quota exceeded. Open a support ticket if the issue persists."
+  },
+  {
+    "id": "support-006",
+    "topic": "Website Down / Server Not Responding",
+    "content": "If your website is down: (1) Check our announcements page for any ongoing maintenance. (2) Verify your domain is pointing to the correct nameservers. (3) Log in to cPanel and check if the account is active. If the issue persists, open an urgent support ticket."
+  },
+  {
+    "id": "support-007",
+    "topic": "Announcements and Maintenance Notices",
+    "content": "Service announcements, scheduled maintenance windows, and important notices are published on the support portal. We recommend checking this page if you experience unexpected downtime."
+  },
+  {
+    "id": "support-008",
+    "topic": "How to Access cPanel",
+    "content": "You can access cPanel directly by navigating to yourdomain.com:2083 or via the client portal (Services > your hosting account > Login to cPanel). Login credentials are in your welcome email."
+  },
+  {
+    "id": "support-009",
+    "topic": "Affiliates Program",
+    "content": "We offer an affiliates program that lets you earn commissions for referring new customers. You can sign up via the client portal under the Affiliates section."
+  }
+]

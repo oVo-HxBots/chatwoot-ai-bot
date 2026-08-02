@@ -1,0 +1,52 @@
+[
+  {
+    "id": "hosting-001",
+    "topic": "Web Hosting",
+    "content": "We offer Web Hosting plans suitable for personal websites, blogs, and small businesses. All plans include cPanel control panel, one-click installers (WordPress, Joomla, etc.), free SSL certificates, and 24/7 support. Contact us or visit the client portal for current pricing."
+  },
+  {
+    "id": "hosting-002",
+    "topic": "Reseller Hosting",
+    "content": "Our Reseller Hosting plans allow you to host multiple clients under your own brand. Features include WHM control panel, WHMCS billing integration, private nameservers, and scalable disk/bandwidth allocations. Ideal for web agencies and entrepreneurs."
+  },
+  {
+    "id": "hosting-003",
+    "topic": "VPS Hosting",
+    "content": "VPS (Virtual Private Server) Hosting provides dedicated resources with full root access. Our VPS plans are suitable for high-traffic websites, custom applications, and developer environments. Management options include both managed and unmanaged configurations."
+  },
+  {
+    "id": "hosting-004",
+    "topic": "Dedicated Servers",
+    "content": "Dedicated Servers give you an entire physical machine exclusively for your use. Perfect for large e-commerce stores, high-performance applications, and clients requiring maximum isolation and resources. Custom hardware configurations are available on request."
+  },
+  {
+    "id": "hosting-005",
+    "topic": "Difference Between Shared, VPS, and Dedicated Hosting",
+    "content": "Shared Hosting (Web Hosting) shares server resources with other customers — it is the most affordable option. VPS Hosting gives you a dedicated slice of a server with guaranteed resources. Dedicated Hosting means the entire server is yours. The choice depends on your traffic, performance needs, and budget."
+  },
+  {
+    "id": "hosting-006",
+    "topic": "How to Upgrade Hosting Plan",
+    "content": "Log in to the client portal, go to Services, select your active service, and click Upgrade/Downgrade. The cost difference is prorated automatically. If you need help, open a support ticket."}
+  },
+  {
+    "id": "hosting-007",
+    "topic": "Server Uptime SLA",
+    "content": "We guarantee 99.9% server uptime monthly across all hosting services. Downtime caused by scheduled maintenance windows or events outside our control (force majeure) is excluded from SLA calculations."
+  },
+  {
+    "id": "hosting-008",
+    "topic": "Free SSL Certificate",
+    "content": "All hosting plans include free Let's Encrypt SSL certificates. SSL is automatically provisioned and renewed. You can also install a custom/premium SSL certificate through the cPanel SSL/TLS manager or contact support for assistance."
+  },
+  {
+    "id": "hosting-009",
+    "topic": "Control Panel Access",
+    "content": "Web and Reseller Hosting plans use cPanel as the control panel. VPS and Dedicated Server customers can request cPanel/WHM installation or use their preferred control panel. Login details are sent to your registered email upon account activation."
+  },
+  {
+    "id": "hosting-010",
+    "topic": "Bandwidth and Disk Usage",
+    "content": "Bandwidth and disk usage limits vary by plan. You can monitor usage in real-time through cPanel. If you are approaching your limits, we recommend upgrading your plan. Overage charges may apply depending on your plan terms."
+  }
+]

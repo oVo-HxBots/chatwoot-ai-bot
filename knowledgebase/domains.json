@@ -1,0 +1,32 @@
+[
+  {
+    "id": "domain-001",
+    "topic": "Domain Registration",
+    "content": "You can register new domains directly through our client portal under the Domains > Domain Search section. We support a wide range of TLDs including .com, .net, .org, .eu, and many country-code domains."
+  },
+  {
+    "id": "domain-002",
+    "topic": "Domain Transfer",
+    "content": "To transfer a domain to us: (1) Unlock the domain at your current registrar, (2) Obtain the EPP/Authorization code, (3) Visit the client portal and go to Domains > Transfer Domain, (4) Enter your domain name and EPP code. The transfer process typically takes 5-7 days."
+  },
+  {
+    "id": "domain-003",
+    "topic": "Domain Renewal",
+    "content": "Domains are renewed annually. You will receive renewal reminder emails 60, 30, and 7 days before expiry. You can also enable auto-renewal in the client portal under Domains to prevent accidental expiration."
+  },
+  {
+    "id": "domain-004",
+    "topic": "DNS Management",
+    "content": "You can manage your domain's DNS records (A, CNAME, MX, TXT, etc.) through the client portal under Domains > Manage DNS. Changes typically propagate within 1-24 hours globally."
+  },
+  {
+    "id": "domain-005",
+    "topic": "Domain Nameservers",
+    "content": "To point your domain to our hosting, update your nameservers to the ones provided in your welcome email or in the client portal under your hosting service details. Nameserver updates can take up to 24-48 hours to propagate."
+  },
+  {
+    "id": "domain-006",
+    "topic": "Domain Privacy / WHOIS Protection",
+    "content": "We offer WHOIS privacy protection as an add-on to hide your personal information from the public WHOIS database. This can be enabled during registration or added later through the client portal."
+  }
+]

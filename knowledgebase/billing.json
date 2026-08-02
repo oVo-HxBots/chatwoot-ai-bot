@@ -1,0 +1,37 @@
+[
+  {
+    "id": "billing-001",
+    "topic": "Payment Methods",
+    "content": "We accept credit cards (Visa, MasterCard), PayPal, and bank transfers. Cryptocurrency payments may be available on request. Contact our billing team via the client portal or support email for more options."
+  },
+  {
+    "id": "billing-002",
+    "topic": "Invoice and Billing Cycle",
+    "content": "Invoices are generated automatically before your renewal date based on your billing cycle (monthly, quarterly, semi-annually, or annually). You can view and pay invoices in the client portal under Billing > My Invoices."
+  },
+  {
+    "id": "billing-003",
+    "topic": "Refund Policy",
+    "content": "We offer a money-back guarantee on most hosting plans. Please refer to our Terms of Service for the specific refund window applicable to your plan. Domain registrations and renewal fees are non-refundable. To request a refund, open a billing support ticket."
+  },
+  {
+    "id": "billing-004",
+    "topic": "How to Pay an Invoice",
+    "content": "Log in to the client portal, go to Billing > My Invoices, and click Pay on the outstanding invoice. Accepted payment methods are displayed at checkout."
+  },
+  {
+    "id": "billing-005",
+    "topic": "Auto-Renewal and Auto-Pay",
+    "content": "You can enable auto-pay in the client portal to automatically charge your saved payment method when invoices are due. This prevents service interruptions from missed payments."
+  },
+  {
+    "id": "billing-006",
+    "topic": "Service Suspension for Non-Payment",
+    "content": "Services are suspended after an invoice remains unpaid past the due date. A grace period may apply before termination. To reactivate a suspended service, pay the outstanding invoice through the client portal."
+  },
+  {
+    "id": "billing-007",
+    "topic": "Upgrade or Downgrade Plan",
+    "content": "You can upgrade or downgrade your plan at any time from the client portal under Services. Upgrades are applied immediately with prorated billing. Downgrades may take effect at the next billing cycle."
+  }
+]
